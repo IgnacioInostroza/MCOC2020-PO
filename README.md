@@ -1,5 +1,4 @@
 # MCOC2020-PO
-jopjphhpphph
 
 # Marca /modelo: HP EliteBook Revolve 810 G1
 # Tipo: Notebook
