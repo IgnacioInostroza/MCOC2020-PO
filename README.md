@@ -13,6 +13,7 @@
        -L2: 512 kB
        -L3: 3,0 MB
 # Matrices dispersas y complejidad computacional
+     -Comentarios se encuentran en carpeta Entrega7
     
     
      
