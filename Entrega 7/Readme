@@ -1,0 +1,7 @@
+-Para realizar esta entrega escribí dos algoritmos para cada método, en cada uno se genera un archivo con listas que contienen el [tamaño de la matriz, tiempo de ensamblado, tiempo de solución]
+ con esto se logra subplotear de manera mas facil cada uno de los metodos ocupando dos diferentes tipos de matrices laplacinas, con lo que finalmente se obtienen 6 graficos.
+-Se puede notar que en todos los metodos el tiempo de ensamblado de la matriz es mas lento que el tiempo de solución, esto puede deberse a la forma empleada para generar las matrices (for dentro de un for, lo cual es mas lento)
+-En todos los métodos el emplear la matriz dispersa, resultaba mucho mas eficiente que la matriz llena, esto se debe a que al emplear una matriz dispersa los calculos asociados a la multiplicacion de los ceros de relleno de la matriz no existen.
+-En realcion a los tamaños de las matrices, se puede notar que a mayor tamaño de matriz el tiempo de ejecucion es mayor, no obstante al emplear matrices dispersas, esta diferencia de tiempo es menos notoria.
+-Finalmente no logre graficar las lineas de tendencia de los grados de las matrices sin embargo presento los codigos de ploteo con todo lo demas.
+-En los archivos adjuntos se encuentra ademas el codigo de la generacion de las matrices llena y dispersa.
